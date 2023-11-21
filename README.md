@@ -1,7 +1,7 @@
 # Travel_Sceduler
 <br>
 <h1 align="center"> 컴퓨터 공학과 종합설계기획 </h1>
-<h2 align="center"> 여행스케쥴러 및 공유 커뮤니티  'Eyetem' 🏪  </h2>
+<h2 align="center"> 여행스케쥴러 및 공유 커뮤니티    </h2>
 <br> 
 
 ---
